@@ -1,9 +1,14 @@
-# api documentation for  [dezalgo (v1.0.3)](https://github.com/npm/dezalgo)  [![npm package](https://img.shields.io/npm/v/npmdoc-dezalgo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dezalgo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dezalgo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dezalgo)
+# npmdoc-dezalgo
+
+#### api documentation for  [dezalgo (v1.0.3)](https://github.com/npm/dezalgo)  [![npm package](https://img.shields.io/npm/v/npmdoc-dezalgo.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dezalgo) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dezalgo.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dezalgo)
+
 #### Contain async insanity so that the dark pony lord doesn't eat souls
 
-[![NPM](https://nodei.co/npm/dezalgo.png?downloads=true)](https://www.npmjs.com/package/dezalgo)
+[![NPM](https://nodei.co/npm/dezalgo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dezalgo)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-dezalgo/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-dezalgo_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-dezalgo/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-dezalgo/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-dezalgo/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-dezalgo/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-dezalgo/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-dezalgo/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Isaac Z. Schlueter",
-        "email": "i@izs.me",
         "url": "http://blog.izs.me/"
     },
     "bugs": {
@@ -58,17 +62,14 @@
     "main": "dezalgo.js",
     "maintainers": [
         {
-            "name": "isaacs",
-            "email": "isaacs@npmjs.com"
+            "name": "isaacs"
         },
         {
-            "name": "othiym23",
-            "email": "ogd@aoaioxxysz.net"
+            "name": "othiym23"
         }
     ],
     "name": "dezalgo",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/npm/dezalgo.git"
@@ -79,16 +80,6 @@
     "version": "1.0.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module dezalgo](#apidoc.module.dezalgo)
-
-
-
-# <a name="apidoc.module.dezalgo"></a>[module dezalgo](#apidoc.module.dezalgo)
 
 
 
